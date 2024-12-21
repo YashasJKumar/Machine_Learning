@@ -1,3 +1,3 @@
 Implementations of some Machine Learning algorithms
 
-![image](https://github.com/user-attachments/assets/8ac47c1e-a3c9-48f8-8b33-8c6f92412cf6)
+![12eca-machine-learning](https://github.com/user-attachments/assets/952efe0c-0de5-4f93-8854-c5615487cb45)
